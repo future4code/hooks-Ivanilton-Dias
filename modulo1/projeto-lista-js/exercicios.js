@@ -70,6 +70,7 @@ function imprimeTresCoresFavoritas() {
   array[0]=cor1
   array[1]=cor2
   array[2]=cor3
+  
   console.log(array)
 
 }
