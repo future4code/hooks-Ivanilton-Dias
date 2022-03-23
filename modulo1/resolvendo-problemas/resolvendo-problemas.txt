@@ -1,0 +1,23 @@
+Exercício de fixação do conhecimento
+
+1:Ter atençao no enunciado
+ler atentamente o enunciado para nao se perder nos codigos
+
+2:Retirar Informações relevantes
+Retirar as informaçoes que mais marcao o enunciado, variaveis que podem ser usadas
+
+3:Pensar entradas e saídas
+pensar nas entradas que o sistema tera e nas saidas 
+Ex: uma array que pode ter uma lista e a saida o que vai retornar
+
+4:Fazer um esquema visual
+Criar um diagrama para ver como escrever o codigo
+
+5:Criar codigo feio
+Criar um codigo que funcione
+
+6:Testar força bruta
+fazer um teste com o codigo feito para ver se esta retornando o desejado
+
+7:Refatorar
+arrumar o codigo para que ele fique mais utilizavel para ser usado
