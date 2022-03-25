@@ -1,0 +1,20 @@
+li{
+
+    font-size: 20px;
+
+}
+li:hover{
+
+    font-size: 30px;
+
+}
+ul{
+
+    background-color: rgb(148, 148, 201);
+    padding: 100px;
+
+}
+#logo{
+
+    color: black;
+}
