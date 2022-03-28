@@ -1,0 +1,20 @@
+h2{
+
+    color: red;
+
+}
+.tabela{
+
+    background-color: rgb(17, 186, 216);
+}
+td{
+
+    padding-right: 200px;
+    text-align: center;
+    color: blanchedalmond;
+    border: 1px solid gray;
+}
+th{
+
+    text-align: center;
+}

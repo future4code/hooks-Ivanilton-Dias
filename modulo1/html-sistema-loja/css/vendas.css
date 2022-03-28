@@ -1,0 +1,18 @@
+.form-vendas{
+
+ 
+
+        background-color: rgb(148, 148, 201);
+        display: block;
+        border: 1px solid gray;
+        padding: 100px;
+    
+
+
+
+}
+
+button{
+
+    background-color: blue;
+}
